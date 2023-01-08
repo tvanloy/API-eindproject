@@ -31,4 +31,12 @@ Voor dit project heb ik er voor gekozen om opnieuw te beginnen omdat ik tegen he
 ![image](https://user-images.githubusercontent.com/91123059/211215634-8bbb8152-e360-4d24-9cf0-3c834e45f543.png)
 ![image](https://user-images.githubusercontent.com/91123059/211216389-75f0354e-8037-4092-9eee-42c1c6a8fa81.png)
 ![image](https://user-images.githubusercontent.com/91123059/211216451-574694e8-03f0-4411-a51f-77e824513761.png)
+![image](https://user-images.githubusercontent.com/91123059/211220740-210e99fc-6639-43b2-94ac-f149bed2a5b8.png)
+![image](https://user-images.githubusercontent.com/91123059/211220805-70ac638e-cb48-40cb-9212-13065ec2c306.png)
+![image](https://user-images.githubusercontent.com/91123059/211220826-a950fed9-4335-4ea3-a9ae-9d99eccb2a81.png)
+![image](https://user-images.githubusercontent.com/91123059/211220852-444a2019-9526-450b-ae38-66ac0fb9c8fb.png)
+![image](https://user-images.githubusercontent.com/91123059/211220935-d17b9197-1d3d-4a47-aa36-88ed94ffd935.png)
+![image](https://user-images.githubusercontent.com/91123059/211220942-5dc9a910-1d0a-4291-840b-b71ed6e0cb34.png)
+
+
 
