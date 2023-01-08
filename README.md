@@ -29,3 +29,6 @@ Voor dit project heb ik er voor gekozen om opnieuw te beginnen omdat ik tegen he
 
 # Postman
 ![image](https://user-images.githubusercontent.com/91123059/211215634-8bbb8152-e360-4d24-9cf0-3c834e45f543.png)
+![image](https://user-images.githubusercontent.com/91123059/211216389-75f0354e-8037-4092-9eee-42c1c6a8fa81.png)
+![image](https://user-images.githubusercontent.com/91123059/211216451-574694e8-03f0-4411-a51f-77e824513761.png)
+
