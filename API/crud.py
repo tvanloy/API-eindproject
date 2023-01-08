@@ -2,6 +2,7 @@ import database
 import sqlalchemy.orm as orm
 import schemas
 import models
+import auth
 
 
 def create_database():
@@ -21,8 +22,8 @@ def get_user_by_email(db: orm.Session, email: str):
 
 
 def create_user(db: orm.Session, user: schemas.UserCreate):
-    fake_hashed_password = user.password + "notsecure"
-    db_user = models.User(email=user.email, hashed_password=fake_hashed_password)
+    hashed_password = auth.get_password_hash(user.password)
+    db_user = models.User(email=user.email, hashed_password=hashed_password)
     db.add(db_user)
     db.commit()
     db.refresh(db_user)
