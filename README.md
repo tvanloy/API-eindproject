@@ -1,7 +1,18 @@
 # API-eindproject
-eindproject voor API development
+Voor dit project heb ik er voor gekozen om opnieuw te beginnen omdat ik tegen heel wat problemen stootte met mijn vorige API. Nu heb ik ervoor gekozen om een API te maken waarin je quotes kan plaatsen, bij deze quotes kan je dan de naamm van de persoon met die quote zetten. quotes kunnen verwijderd en geupdate worden.
 
-
+# Endpoints
+<ul> 
+   <li>GET /users: Geeft alle Users weer met de quotes die zij gepost hebben.</li>
+   <li>GET /users/{user_id}: Geeft een user weer op basis van een user id.</li>
+   <li>GET /quotes: Geeft alle quotes die gepost zijn met de naam van wie deze gezegd heeft.</li>
+   <li>GET /quotes/{quote_id}: Geeft een bepaalde quote weer op basis van het id van deze quote </li>
+   <li>POST /users: Dit laat een persoon een user aanmaken met een email en een wachtwoord.</li>
+   <li>POST /users/{user_id}/posts: Dit laat een user aan de hand van een user id een nieuwe post maken.</li>
+   <li>POST /token: login voor toegang.</li>
+   <li>PUT /quotes/{post_id}: Laat een gebruiker een post aanpassen.</li>
+   <li>DELETE /quotes/{quote_id}: Laat een gebruiker een post verwijderen.</li>
+</ul>
 
 
 # OpenAPI docs
