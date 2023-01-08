@@ -1,7 +1,7 @@
 version: "3.9"
 services:
  api-eindproject:
-  image: arnevg123/api-eindproject
+  image: tristanvl/eindproject
   ports:
     - "8000:8000"
   volumes:
