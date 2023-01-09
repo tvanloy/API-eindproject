@@ -1,6 +1,6 @@
 # API-eindproject
 Voor dit project heb ik er voor gekozen om opnieuw te beginnen omdat ik tegen heel wat problemen stootte met mijn vorige API. Nu heb ik ervoor gekozen om een API te maken waarin je quotes kan plaatsen, bij deze quotes kan je dan de naamm van de persoon met die quote zetten. quotes kunnen verwijderd en geupdate worden.
-# wat heb ik gemaakt:
+# aanvulling functie front-end:
 3. Maak een front-end voor je applicatie die al je GET endpoints en POST endpoints bevat.
    - Host de front-end op Netlify. 
 
@@ -48,5 +48,8 @@ Voor dit project heb ik er voor gekozen om opnieuw te beginnen omdat ik tegen he
 ![image](https://user-images.githubusercontent.com/91123059/211220935-d17b9197-1d3d-4a47-aa36-88ed94ffd935.png)
 ![image](https://user-images.githubusercontent.com/91123059/211220942-5dc9a910-1d0a-4291-840b-b71ed6e0cb34.png)
 
-
+#front-end
+front end van de API wordt gehost op netlify
+![image](https://user-images.githubusercontent.com/91123059/211423465-43c51706-d61a-4a3f-ae7e-5976ff2117a6.png)
+![image](https://user-images.githubusercontent.com/91123059/211423596-361875d3-b702-4829-bec0-9b89fe88c39a.png)
 
