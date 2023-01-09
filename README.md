@@ -1,6 +1,11 @@
 # API-eindproject
 Voor dit project heb ik er voor gekozen om opnieuw te beginnen omdat ik tegen heel wat problemen stootte met mijn vorige API. Nu heb ik ervoor gekozen om een API te maken waarin je quotes kan plaatsen, bij deze quotes kan je dan de naamm van de persoon met die quote zetten. quotes kunnen verwijderd en geupdate worden.
 
+# links
+<ul> 
+ <li>repo API: https://github.com/tvanloy/API-eindproject/tree/main/API</li>
+  <li>hosted API: https://api-eindproject-tvanloy.cloud.okteto.net</li>
+</ul>
 # Endpoints
 <ul> 
    <li>GET /users: Geeft alle Users weer met de quotes die zij gepost hebben.</li>
