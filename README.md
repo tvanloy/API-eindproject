@@ -1,9 +1,9 @@
 # API-eindproject
 Voor dit project heb ik er voor gekozen om opnieuw te beginnen omdat ik tegen heel wat problemen stootte met mijn vorige API. Nu heb ik ervoor gekozen om een API te maken waarin je quotes kan plaatsen, bij deze quotes kan je dan de naamm van de persoon met die quote zetten. quotes kunnen verwijderd en geupdate worden.
 # wat heb ik gemaakt:
-1. First list item
-   - First nested list item
-     - Second nested list item
+3. Maak een front-end voor je applicatie die al je GET endpoints en POST endpoints bevat.
+   - Host de front-end op Netlify. 
+
 # links
 <ul> 
  <li>repo API: https://github.com/tvanloy/API-eindproject/tree/main/API</li>
